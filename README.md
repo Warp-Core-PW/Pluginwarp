@@ -1,6 +1,6 @@
 # WarpCore Impact  
 
-**WarpCore Impact** is a curated collection of over **240+ WarpCore plugins**, gathered from across the community to enhance and extend the functionality of the Warpcore Scratch-based editor. Whether you're looking for new tools, creative enhancements, or utilities, Impact brings them all together in one place.  
+**WarpCore Impact** is a curated collection of over **840+ WarpCore plugins**, gathered from across the community to enhance and extend the functionality of the Warpcore Scratch-based editor. Whether you're looking for new tools, creative enhancements, or utilities, Impact brings them all together in one place.  
 
 ---
 
