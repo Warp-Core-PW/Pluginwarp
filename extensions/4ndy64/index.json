@@ -1,0 +1,92 @@
+[
+  {
+    "name": "4ndyCurrencyConversion.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyCurrencyConversion.js"
+  },
+  {
+    "name": "4ndyEconomicalAnalytics.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyEconomicalAnalytics.js"
+  },
+  {
+    "name": "4ndyEncryption.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyEncryption.js"
+  },
+  {
+    "name": "4ndyEvents.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyEvents.js"
+  },
+  {
+    "name": "4ndyFilters.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyFilters.js"
+  },
+  {
+    "name": "4ndyJSON.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyJSON.js"
+  },
+  {
+    "name": "4ndyMathComparisons.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyMathComparisons.js"
+  },
+  {
+    "name": "4ndyMeasurementsConversions.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyMeasurementsConversions.js"
+  },
+  {
+    "name": "4ndyNewYearCountdown.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyNewYearCountdown.js"
+  },
+  {
+    "name": "4ndyOCGeneratorSpace.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyOCGeneratorSpace.js"
+  },
+  {
+    "name": "4ndypages.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndypages.js"
+  },
+  {
+    "name": "4ndyQuestionUtilities.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyQuestionUtilities.js"
+  },
+  {
+    "name": "4ndyT3xtManagementPlus.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyT3xtManagementPlus.js"
+  },
+  {
+    "name": "4ndyTextFiles.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyTextFiles.js"
+  },
+  {
+    "name": "4ndyTimeNdateUtilities.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyTimeNdateUtilities.js"
+  },
+  {
+    "name": "4ndyWeather.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyWeather.js"
+  },
+  {
+    "name": "4ndyYoutubeUtilities.js",
+    "type": "file",
+    "path": "extensions/4ndy64/4ndyYoutubeUtilities.js"
+  },
+  {
+    "name": "FourndyOCGeneratorSpace.js",
+    "type": "file",
+    "path": "extensions/4ndy64/FourndyOCGeneratorSpace.js"
+  }
+]

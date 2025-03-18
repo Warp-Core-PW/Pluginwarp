@@ -1,0 +1,17 @@
+[
+  {
+    "name": "3DMath",
+    "type": "dir",
+    "path": "extensions/DilemmaGX/3DMath"
+  },
+  {
+    "name": "Animator",
+    "type": "dir",
+    "path": "extensions/DilemmaGX/Animator"
+  },
+  {
+    "name": "rxfs",
+    "type": "dir",
+    "path": "extensions/DilemmaGX/rxfs"
+  }
+]

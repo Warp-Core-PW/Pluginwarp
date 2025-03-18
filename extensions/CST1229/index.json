@@ -1,0 +1,12 @@
+[
+  {
+    "name": "images.js",
+    "type": "file",
+    "path": "extensions/CST1229/images.js"
+  },
+  {
+    "name": "zip.js",
+    "type": "file",
+    "path": "extensions/CST1229/zip.js"
+  }
+]

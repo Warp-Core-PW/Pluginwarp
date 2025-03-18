@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KeySimulation.js",
+    "type": "file",
+    "path": "extensions/CubesterYT/KeySimulation.js"
+  },
+  {
+    "name": "TurboHook.js",
+    "type": "file",
+    "path": "extensions/CubesterYT/TurboHook.js"
+  },
+  {
+    "name": "WindowControls.js",
+    "type": "file",
+    "path": "extensions/CubesterYT/WindowControls.js"
+  }
+]

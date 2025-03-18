@@ -1,0 +1,42 @@
+[
+  {
+    "name": "advanced_control_cover.png",
+    "type": "file",
+    "path": "extensions/Arkos/assets/advanced_control_cover.png"
+  },
+  {
+    "name": "advanced_control_icon.svg",
+    "type": "file",
+    "path": "extensions/Arkos/assets/advanced_control_icon.svg"
+  },
+  {
+    "name": "cover1.png",
+    "type": "file",
+    "path": "extensions/Arkos/assets/cover1.png"
+  },
+  {
+    "name": "cover2.png",
+    "type": "file",
+    "path": "extensions/Arkos/assets/cover2.png"
+  },
+  {
+    "name": "icon1.svg",
+    "type": "file",
+    "path": "extensions/Arkos/assets/icon1.svg"
+  },
+  {
+    "name": "icon2.svg",
+    "type": "file",
+    "path": "extensions/Arkos/assets/icon2.svg"
+  },
+  {
+    "name": "moreDataTypes_cover.png",
+    "type": "file",
+    "path": "extensions/Arkos/assets/moreDataTypes_cover.png"
+  },
+  {
+    "name": "moreDataTypes_icon.svg",
+    "type": "file",
+    "path": "extensions/Arkos/assets/moreDataTypes_icon.svg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "fps-values.js",
+    "type": "file",
+    "path": "extensions/adacraft/adacraft_gif/fps-values.js"
+  },
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/adacraft/adacraft_gif/index.js"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "adacraft_gif",
+    "type": "dir",
+    "path": "extensions/adacraft/adacraft_gif"
+  },
+  {
+    "name": "adacraft_leaflet",
+    "type": "dir",
+    "path": "extensions/adacraft/adacraft_leaflet"
+  },
+  {
+    "name": "adacraft_tiktoktts",
+    "type": "dir",
+    "path": "extensions/adacraft/adacraft_tiktoktts"
+  },
+  {
+    "name": "tw",
+    "type": "dir",
+    "path": "extensions/adacraft/tw"
+  }
+]
