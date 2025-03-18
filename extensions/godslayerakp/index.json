@@ -1,0 +1,12 @@
+[
+  {
+    "name": "http.js",
+    "type": "file",
+    "path": "extensions/godslayerakp/http.js"
+  },
+  {
+    "name": "ws.js",
+    "type": "file",
+    "path": "extensions/godslayerakp/ws.js"
+  }
+]

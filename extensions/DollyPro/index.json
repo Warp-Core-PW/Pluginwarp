@@ -1,0 +1,12 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/DollyPro/assets"
+  },
+  {
+    "name": "dollytest.js",
+    "type": "file",
+    "path": "extensions/DollyPro/dollytest.js"
+  }
+]

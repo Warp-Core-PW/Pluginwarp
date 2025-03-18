@@ -1,0 +1,32 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/Fath/assets"
+  },
+  {
+    "name": "banners",
+    "type": "dir",
+    "path": "extensions/Fath/banners"
+  },
+  {
+    "name": "Turbowarp",
+    "type": "dir",
+    "path": "extensions/Fath/Turbowarp"
+  },
+  {
+    "name": "CocreaFetch.js",
+    "type": "file",
+    "path": "extensions/Fath/CocreaFetch.js"
+  },
+  {
+    "name": "comment blocks.js",
+    "type": "file",
+    "path": "extensions/Fath/comment blocks.js"
+  },
+  {
+    "name": "ScratchHub",
+    "type": "file",
+    "path": "extensions/Fath/ScratchHub"
+  }
+]

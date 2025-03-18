@@ -1,0 +1,17 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/example/assets"
+  },
+  {
+    "name": "ccw-approved-ext.js",
+    "type": "file",
+    "path": "extensions/example/ccw-approved-ext.js"
+  },
+  {
+    "name": "normal-ext.js",
+    "type": "file",
+    "path": "extensions/example/normal-ext.js"
+  }
+]

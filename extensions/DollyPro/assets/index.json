@@ -1,0 +1,12 @@
+[
+  {
+    "name": "cover.png",
+    "type": "file",
+    "path": "extensions/DollyPro/assets/cover.png"
+  },
+  {
+    "name": "icon.svg",
+    "type": "file",
+    "path": "extensions/DollyPro/assets/icon.svg"
+  }
+]

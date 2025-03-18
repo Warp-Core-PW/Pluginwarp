@@ -1,0 +1,17 @@
+[
+  {
+    "name": "lpp.js",
+    "type": "file",
+    "path": "extensions/FurryR/lpp.js"
+  },
+  {
+    "name": "not.js.js",
+    "type": "file",
+    "path": "extensions/FurryR/not.js.js"
+  },
+  {
+    "name": "README.md",
+    "type": "file",
+    "path": "extensions/FurryR/README.md"
+  }
+]

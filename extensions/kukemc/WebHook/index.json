@@ -1,0 +1,32 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/kukemc/WebHook/assets"
+  },
+  {
+    "name": "extension.js",
+    "type": "file",
+    "path": "extensions/kukemc/WebHook/extension.js"
+  },
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/kukemc/WebHook/index.js"
+  },
+  {
+    "name": "package-lock.json",
+    "type": "file",
+    "path": "extensions/kukemc/WebHook/package-lock.json"
+  },
+  {
+    "name": "package.json",
+    "type": "file",
+    "path": "extensions/kukemc/WebHook/package.json"
+  },
+  {
+    "name": "webpack.config.js",
+    "type": "file",
+    "path": "extensions/kukemc/WebHook/webpack.config.js"
+  }
+]

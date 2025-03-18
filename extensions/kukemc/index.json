@@ -1,0 +1,12 @@
+[
+  {
+    "name": "I18n",
+    "type": "dir",
+    "path": "extensions/kukemc/I18n"
+  },
+  {
+    "name": "WebHook",
+    "type": "dir",
+    "path": "extensions/kukemc/WebHook"
+  }
+]

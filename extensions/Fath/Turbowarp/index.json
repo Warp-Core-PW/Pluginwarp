@@ -1,0 +1,17 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/Fath/Turbowarp/assets"
+  },
+  {
+    "name": "BigInt.js",
+    "type": "file",
+    "path": "extensions/Fath/Turbowarp/BigInt.js"
+  },
+  {
+    "name": "comment blocks.js",
+    "type": "file",
+    "path": "extensions/Fath/Turbowarp/comment blocks.js"
+  }
+]

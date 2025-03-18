@@ -1,0 +1,12 @@
+[
+  {
+    "name": "bigint.png",
+    "type": "file",
+    "path": "extensions/Fath/Turbowarp/assets/bigint.png"
+  },
+  {
+    "name": "lilyComment.png",
+    "type": "file",
+    "path": "extensions/Fath/Turbowarp/assets/lilyComment.png"
+  }
+]

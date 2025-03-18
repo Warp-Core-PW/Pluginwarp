@@ -1,0 +1,12 @@
+[
+  {
+    "name": "mathematics.js",
+    "type": "file",
+    "path": "extensions/jwklong/mathematics.js"
+  },
+  {
+    "name": "projectpage.js",
+    "type": "file",
+    "path": "extensions/jwklong/projectpage.js"
+  }
+]
