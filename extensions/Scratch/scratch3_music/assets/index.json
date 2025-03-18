@@ -1,0 +1,12 @@
+[
+  {
+    "name": "drums",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_music/assets/drums"
+  },
+  {
+    "name": "instruments",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_music/assets/instruments"
+  }
+]

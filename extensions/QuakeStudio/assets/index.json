@@ -1,0 +1,17 @@
+[
+  {
+    "name": "banner.png",
+    "type": "file",
+    "path": "extensions/QuakeStudio/assets/banner.png"
+  },
+  {
+    "name": "BetterQuake.png",
+    "type": "file",
+    "path": "extensions/QuakeStudio/assets/BetterQuake.png"
+  },
+  {
+    "name": "QuakeStudio.png",
+    "type": "file",
+    "path": "extensions/QuakeStudio/assets/QuakeStudio.png"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "CanvasEffects.js",
+    "type": "file",
+    "path": "extensions/TheShovel/CanvasEffects.js"
+  },
+  {
+    "name": "ColorPicker.js",
+    "type": "file",
+    "path": "extensions/TheShovel/ColorPicker.js"
+  },
+  {
+    "name": "CustomStyles.js",
+    "type": "file",
+    "path": "extensions/TheShovel/CustomStyles.js"
+  },
+  {
+    "name": "extexp.js",
+    "type": "file",
+    "path": "extensions/TheShovel/extexp.js"
+  },
+  {
+    "name": "LZ-String.js",
+    "type": "file",
+    "path": "extensions/TheShovel/LZ-String.js"
+  },
+  {
+    "name": "oneko.js",
+    "type": "file",
+    "path": "extensions/TheShovel/oneko.js"
+  },
+  {
+    "name": "profanity.js",
+    "type": "file",
+    "path": "extensions/TheShovel/profanity.js"
+  },
+  {
+    "name": "profanityAPI.js",
+    "type": "file",
+    "path": "extensions/TheShovel/profanityAPI.js"
+  },
+  {
+    "name": "ShovelUtils.js",
+    "type": "file",
+    "path": "extensions/TheShovel/ShovelUtils.js"
+  }
+]

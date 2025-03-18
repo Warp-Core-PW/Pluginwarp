@@ -1,0 +1,17 @@
+[
+  {
+    "name": "cloudlink.js",
+    "type": "file",
+    "path": "extensions/MikeDev101/cloudlink.js"
+  },
+  {
+    "name": "e2ee.js",
+    "type": "file",
+    "path": "extensions/MikeDev101/e2ee.js"
+  },
+  {
+    "name": "webrtc.js",
+    "type": "file",
+    "path": "extensions/MikeDev101/webrtc.js"
+  }
+]

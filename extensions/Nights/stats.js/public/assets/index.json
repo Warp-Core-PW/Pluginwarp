@@ -1,0 +1,12 @@
+[
+  {
+    "name": "cover.png",
+    "type": "file",
+    "path": "extensions/Nights/stats.js/public/assets/cover.png"
+  },
+  {
+    "name": "icon.png",
+    "type": "file",
+    "path": "extensions/Nights/stats.js/public/assets/icon.png"
+  }
+]

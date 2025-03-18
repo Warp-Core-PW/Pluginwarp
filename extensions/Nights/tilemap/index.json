@@ -1,0 +1,32 @@
+[
+  {
+    "name": "cover.png",
+    "type": "file",
+    "path": "extensions/Nights/tilemap/cover.png"
+  },
+  {
+    "name": "demo.sb3",
+    "type": "file",
+    "path": "extensions/Nights/tilemap/demo.sb3"
+  },
+  {
+    "name": "icon.png",
+    "type": "file",
+    "path": "extensions/Nights/tilemap/icon.png"
+  },
+  {
+    "name": "info.json",
+    "type": "file",
+    "path": "extensions/Nights/tilemap/info.json"
+  },
+  {
+    "name": "README.md",
+    "type": "file",
+    "path": "extensions/Nights/tilemap/README.md"
+  },
+  {
+    "name": "tilemap.js",
+    "type": "file",
+    "path": "extensions/Nights/tilemap/tilemap.js"
+  }
+]

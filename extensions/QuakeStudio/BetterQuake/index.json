@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BetterQuake.js",
+    "type": "file",
+    "path": "extensions/QuakeStudio/BetterQuake/BetterQuake.js"
+  },
+  {
+    "name": "LICENSE.txt",
+    "type": "file",
+    "path": "extensions/QuakeStudio/BetterQuake/LICENSE.txt"
+  },
+  {
+    "name": "README.md",
+    "type": "file",
+    "path": "extensions/QuakeStudio/BetterQuake/README.md"
+  }
+]

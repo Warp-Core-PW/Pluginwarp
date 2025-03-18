@@ -1,0 +1,17 @@
+[
+  {
+    "name": "src",
+    "type": "dir",
+    "path": "extensions/YUEN/FeishuExtension/src"
+  },
+  {
+    "name": "package.json",
+    "type": "file",
+    "path": "extensions/YUEN/FeishuExtension/package.json"
+  },
+  {
+    "name": "webpack.config.js",
+    "type": "file",
+    "path": "extensions/YUEN/FeishuExtension/webpack.config.js"
+  }
+]

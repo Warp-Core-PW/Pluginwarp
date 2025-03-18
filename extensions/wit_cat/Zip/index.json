@@ -1,0 +1,27 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/wit_cat/Zip/assets"
+  },
+  {
+    "name": "extension.js",
+    "type": "file",
+    "path": "extensions/wit_cat/Zip/extension.js"
+  },
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/wit_cat/Zip/index.js"
+  },
+  {
+    "name": "package.json",
+    "type": "file",
+    "path": "extensions/wit_cat/Zip/package.json"
+  },
+  {
+    "name": "webpack.config.js",
+    "type": "file",
+    "path": "extensions/wit_cat/Zip/webpack.config.js"
+  }
+]

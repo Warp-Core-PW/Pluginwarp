@@ -1,0 +1,27 @@
+[
+  {
+    "name": "public",
+    "type": "dir",
+    "path": "extensions/Nights/stats.js/public"
+  },
+  {
+    "name": "src",
+    "type": "dir",
+    "path": "extensions/Nights/stats.js/src"
+  },
+  {
+    "name": "package.json",
+    "type": "file",
+    "path": "extensions/Nights/stats.js/package.json"
+  },
+  {
+    "name": "README.md",
+    "type": "file",
+    "path": "extensions/Nights/stats.js/README.md"
+  },
+  {
+    "name": "vite.config.js",
+    "type": "file",
+    "path": "extensions/Nights/stats.js/vite.config.js"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "debug.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_video_sensing/debug.js"
+  },
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_video_sensing/index.js"
+  },
+  {
+    "name": "library.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_video_sensing/library.js"
+  },
+  {
+    "name": "math.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_video_sensing/math.js"
+  },
+  {
+    "name": "view.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_video_sensing/view.js"
+  }
+]

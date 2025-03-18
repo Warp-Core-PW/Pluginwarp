@@ -1,0 +1,12 @@
+[
+  {
+    "name": "stats.js",
+    "type": "dir",
+    "path": "extensions/Nights/stats.js"
+  },
+  {
+    "name": "tilemap",
+    "type": "dir",
+    "path": "extensions/Nights/tilemap"
+  }
+]

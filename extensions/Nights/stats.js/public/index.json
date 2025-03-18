@@ -1,0 +1,12 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/Nights/stats.js/public/assets"
+  },
+  {
+    "name": "info.json",
+    "type": "file",
+    "path": "extensions/Nights/stats.js/public/info.json"
+  }
+]

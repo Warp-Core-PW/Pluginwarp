@@ -1,0 +1,17 @@
+[
+  {
+    "name": "controlcontrols.js",
+    "type": "file",
+    "path": "extensions/NexusKitten/controlcontrols.js"
+  },
+  {
+    "name": "moremotion.js",
+    "type": "file",
+    "path": "extensions/NexusKitten/moremotion.js"
+  },
+  {
+    "name": "sgrab.js",
+    "type": "file",
+    "path": "extensions/NexusKitten/sgrab.js"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_gdx_for/index.js"
+  },
+  {
+    "name": "scratch-link-device-adapter.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_gdx_for/scratch-link-device-adapter.js"
+  }
+]

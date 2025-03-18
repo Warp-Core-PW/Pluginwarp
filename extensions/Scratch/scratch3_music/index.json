@@ -1,0 +1,17 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_music/assets"
+  },
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_music/index.js"
+  },
+  {
+    "name": "manifest.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_music/manifest.js"
+  }
+]

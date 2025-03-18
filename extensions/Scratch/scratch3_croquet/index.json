@@ -1,0 +1,17 @@
+[
+  {
+    "name": "cps.html",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_croquet/cps.html"
+  },
+  {
+    "name": "cps.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_croquet/cps.js"
+  },
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_croquet/index.js"
+  }
+]

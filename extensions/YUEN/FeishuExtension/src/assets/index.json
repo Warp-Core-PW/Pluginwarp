@@ -1,0 +1,12 @@
+[
+  {
+    "name": "cover.png",
+    "type": "file",
+    "path": "extensions/YUEN/FeishuExtension/src/assets/cover.png"
+  },
+  {
+    "name": "icon.png",
+    "type": "file",
+    "path": "extensions/YUEN/FeishuExtension/src/assets/icon.png"
+  }
+]

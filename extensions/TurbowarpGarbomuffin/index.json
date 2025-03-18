@@ -1,0 +1,137 @@
+[
+  {
+    "name": "ar.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/ar.js"
+  },
+  {
+    "name": "battery.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/battery.js"
+  },
+  {
+    "name": "bitwise.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/bitwise.js"
+  },
+  {
+    "name": "box2d.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/box2d.js"
+  },
+  {
+    "name": "clipboard.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/clipboard.js"
+  },
+  {
+    "name": "clouddata-ping.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/clouddata-ping.js"
+  },
+  {
+    "name": "cloudlink.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/cloudlink.js"
+  },
+  {
+    "name": "cursor.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/cursor.js"
+  },
+  {
+    "name": "encoding.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/encoding.js"
+  },
+  {
+    "name": "fetch.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/fetch.js"
+  },
+  {
+    "name": "files.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/files.js"
+  },
+  {
+    "name": "gamejolt.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/gamejolt.js"
+  },
+  {
+    "name": "gamepad.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/gamepad.js"
+  },
+  {
+    "name": "iframe.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/iframe.js"
+  },
+  {
+    "name": "itchio.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/itchio.js"
+  },
+  {
+    "name": "local-storage.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/local-storage.js"
+  },
+  {
+    "name": "navigator.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/navigator.js"
+  },
+  {
+    "name": "numerical-encoding-2.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/numerical-encoding-2.js"
+  },
+  {
+    "name": "penplus.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/penplus.js"
+  },
+  {
+    "name": "pointerlock.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/pointerlock.js"
+  },
+  {
+    "name": "rixxyx.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/rixxyx.js"
+  },
+  {
+    "name": "runtime-options.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/runtime-options.js"
+  },
+  {
+    "name": "sound.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/sound.js"
+  },
+  {
+    "name": "steamworks.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/steamworks.js"
+  },
+  {
+    "name": "stretch.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/stretch.js"
+  },
+  {
+    "name": "text.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/text.js"
+  },
+  {
+    "name": "utilities.js",
+    "type": "file",
+    "path": "extensions/TurbowarpGarbomuffin/utilities.js"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "base64.js",
+    "type": "file",
+    "path": "extensions/wit_cat/File_Helper/base64.js"
+  },
+  {
+    "name": "File_Helper.js",
+    "type": "file",
+    "path": "extensions/wit_cat/File_Helper/File_Helper.js"
+  }
+]

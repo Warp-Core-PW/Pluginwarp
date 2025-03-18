@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Interpreter.js",
+    "type": "file",
+    "path": "extensions/wit_cat/Interpreter/Interpreter.js"
+  },
+  {
+    "name": "math.js",
+    "type": "file",
+    "path": "extensions/wit_cat/Interpreter/math.js"
+  }
+]

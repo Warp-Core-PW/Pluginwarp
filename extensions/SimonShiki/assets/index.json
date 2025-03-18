@@ -1,0 +1,12 @@
+[
+  {
+    "name": "cover.png",
+    "type": "file",
+    "path": "extensions/SimonShiki/assets/cover.png"
+  },
+  {
+    "name": "icon.png",
+    "type": "file",
+    "path": "extensions/SimonShiki/assets/icon.png"
+  }
+]

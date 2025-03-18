@@ -1,0 +1,32 @@
+[
+  {
+    "name": "big-decimal.js",
+    "type": "file",
+    "path": "extensions/qxsck/big-decimal.js"
+  },
+  {
+    "name": "data-analysis.js",
+    "type": "file",
+    "path": "extensions/qxsck/data-analysis.js"
+  },
+  {
+    "name": "easy-struct.js",
+    "type": "file",
+    "path": "extensions/qxsck/easy-struct.js"
+  },
+  {
+    "name": "matrix.js",
+    "type": "file",
+    "path": "extensions/qxsck/matrix.js"
+  },
+  {
+    "name": "str-mani.js",
+    "type": "file",
+    "path": "extensions/qxsck/str-mani.js"
+  },
+  {
+    "name": "var-and-list.js",
+    "type": "file",
+    "path": "extensions/qxsck/var-and-list.js"
+  }
+]

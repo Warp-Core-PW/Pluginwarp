@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Project.js",
+    "type": "file",
+    "path": "extensions/Project/Project.js"
+  },
+  {
+    "name": "Project.svg",
+    "type": "file",
+    "path": "extensions/Project/Project.svg"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "scratch3_adabrowser",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_adabrowser"
+  },
+  {
+    "name": "scratch3_adahttp",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_adahttp"
+  },
+  {
+    "name": "scratch3_adap5",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_adap5"
+  },
+  {
+    "name": "scratch3_adaruntime",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_adaruntime"
+  },
+  {
+    "name": "scratch3_adasound",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_adasound"
+  },
+  {
+    "name": "scratch3_adavision",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_adavision"
+  },
+  {
+    "name": "scratch3_boost",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_boost"
+  },
+  {
+    "name": "scratch3_cloudlink",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_cloudlink"
+  },
+  {
+    "name": "scratch3_croquet",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_croquet"
+  },
+  {
+    "name": "scratch3_ev3",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_ev3"
+  },
+  {
+    "name": "scratch3_gdx_for",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_gdx_for"
+  },
+  {
+    "name": "scratch3_makeymakey",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_makeymakey"
+  },
+  {
+    "name": "scratch3_microbit",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_microbit"
+  },
+  {
+    "name": "scratch3_ml2scratch",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_ml2scratch"
+  },
+  {
+    "name": "scratch3_music",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_music"
+  },
+  {
+    "name": "scratch3_pen",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_pen"
+  },
+  {
+    "name": "scratch3_posenet2scratch",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_posenet2scratch"
+  },
+  {
+    "name": "scratch3_speech2text",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_speech2text"
+  },
+  {
+    "name": "scratch3_text2speech",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_text2speech"
+  },
+  {
+    "name": "scratch3_tm2scratch",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_tm2scratch"
+  },
+  {
+    "name": "scratch3_translate",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_translate"
+  },
+  {
+    "name": "scratch3_video_sensing",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_video_sensing"
+  },
+  {
+    "name": "scratch3_vision",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_vision"
+  },
+  {
+    "name": "scratch3_vittaarduino",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_vittaarduino"
+  },
+  {
+    "name": "scratch3_vittaESP32",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_vittaESP32"
+  },
+  {
+    "name": "scratch3_vittamicrobit",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_vittamicrobit"
+  },
+  {
+    "name": "scratch3_vittaSTM32",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_vittaSTM32"
+  },
+  {
+    "name": "scratch3_wedo2",
+    "type": "dir",
+    "path": "extensions/Scratch/scratch3_wedo2"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "3DMath.js",
+    "type": "file",
+    "path": "extensions/ObviousAlexC/3DMath.js"
+  },
+  {
+    "name": "newgroundsIO.js",
+    "type": "file",
+    "path": "extensions/ObviousAlexC/newgroundsIO.js"
+  },
+  {
+    "name": "penPlus.js",
+    "type": "file",
+    "path": "extensions/ObviousAlexC/penPlus.js"
+  },
+  {
+    "name": "SensingPlus.js",
+    "type": "file",
+    "path": "extensions/ObviousAlexC/SensingPlus.js"
+  },
+  {
+    "name": "sensingV3Archival.js",
+    "type": "file",
+    "path": "extensions/ObviousAlexC/sensingV3Archival.js"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "consoles.js",
+    "type": "file",
+    "path": "extensions/-SIPC-/consoles.js"
+  },
+  {
+    "name": "recording.js",
+    "type": "file",
+    "path": "extensions/-SIPC-/recording.js"
+  },
+  {
+    "name": "time.js",
+    "type": "file",
+    "path": "extensions/-SIPC-/time.js"
+  }
+]

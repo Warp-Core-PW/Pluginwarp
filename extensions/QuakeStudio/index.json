@@ -1,0 +1,17 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/QuakeStudio/assets"
+  },
+  {
+    "name": "BetterQuake",
+    "type": "dir",
+    "path": "extensions/QuakeStudio/BetterQuake"
+  },
+  {
+    "name": "README.md",
+    "type": "file",
+    "path": "extensions/QuakeStudio/README.md"
+  }
+]

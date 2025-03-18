@@ -1,0 +1,12 @@
+[
+  {
+    "name": "PenguinMod",
+    "type": "dir",
+    "path": "extensions/NoCreatorAttached/PenguinMod"
+  },
+  {
+    "name": "TurboWarp",
+    "type": "dir",
+    "path": "extensions/NoCreatorAttached/TurboWarp"
+  }
+]

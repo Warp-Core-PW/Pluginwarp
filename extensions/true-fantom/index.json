@@ -1,0 +1,32 @@
+[
+  {
+    "name": "base.js",
+    "type": "file",
+    "path": "extensions/true-fantom/base.js"
+  },
+  {
+    "name": "couplers.js",
+    "type": "file",
+    "path": "extensions/true-fantom/couplers.js"
+  },
+  {
+    "name": "math.js",
+    "type": "file",
+    "path": "extensions/true-fantom/math.js"
+  },
+  {
+    "name": "network-m.js",
+    "type": "file",
+    "path": "extensions/true-fantom/network-m.js"
+  },
+  {
+    "name": "network.js",
+    "type": "file",
+    "path": "extensions/true-fantom/network.js"
+  },
+  {
+    "name": "regexp.js",
+    "type": "file",
+    "path": "extensions/true-fantom/regexp.js"
+  }
+]

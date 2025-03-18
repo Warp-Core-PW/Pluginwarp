@@ -1,0 +1,12 @@
+[
+  {
+    "name": "clippingblending.js",
+    "type": "file",
+    "path": "extensions/Xeltalliv/clippingblending.js"
+  },
+  {
+    "name": "simple3D.js",
+    "type": "file",
+    "path": "extensions/Xeltalliv/simple3D.js"
+  }
+]

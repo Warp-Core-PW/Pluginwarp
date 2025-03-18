@@ -1,0 +1,12 @@
+[
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_adap5/index.js"
+  },
+  {
+    "name": "noise.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_adap5/noise.js"
+  }
+]
