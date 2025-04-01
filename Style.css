@@ -1,164 +1,143 @@
-/* Universal Setup and life is good */
-:where(*) {
-    box-sizing: inherit;
+/* Basic Reset stinky */
+* {
     margin: 0;
     padding: 0;
-}
-
-html {
     box-sizing: border-box;
 }
-
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     color: #333;
-    padding: 1.25rem;
+    padding: 20px;
 
-    --accent: #e93a3a;
-    --scale-hover: 1.005;
+    /* Variables stinky */
+    --main-color: #e93a3a;
+    --hover-scale: 1.005
 }
-
-/* Headings */
+h2.ImpactHeader {
+    text-align: center;
+}
 h1 {
     text-align: center;
     color: #444;
-    margin-block-end: 1.25rem;
+    margin-bottom: 20px;
 }
 
-h2.primary-title {
-    text-align: center;
+/* File Tree Styles */
+.file-tree {
+    list-style: none;
+    padding-left: 20px;
 }
 
-/* List Display */
-.tree-view {
-    list-style-type: none;
-    padding-inline-start: 1.25rem;
-}
-
-/* Node Items */
-.node,
-.return-btn,
-.entry {
-    border-radius: 5px;
-    padding: 5px;
-    margin-block: 5px;
+.folder, .file, .backbutton {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 5px 0;
     cursor: pointer;
-    transition: all 0.3s ease;
+    padding: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-.node:hover,
-.entry:hover,
-.return-btn:hover {
-    background-color: var(--accent);
-    color: #fff;
-    transform: scale(var(--scale-hover));
+.folder:hover, .file:hover, .backbutton:hover{
+    background-color: var(--main-color); /* #4CAF50;*/
+    color: white;
+    transform: scale(var(--hover-scale));
 }
 
-.entry:hover .meta {
-    color: #fff;
-    transform: scale(var(--scale-hover));
+.file:hover .ExtCredits {
+    color: white;
+    transform: scale(var(--hover-scale));
 }
 
-/* Icons for Entries */
-.node::before {
+.folder::before {
     content: '📁 ';
     transition: transform 0.3s ease;
 }
 
-.entry::before {
+.file::before {
     content: '📄 ';
     transition: transform 0.3s ease;
 }
 
-.return-btn::before {
+.backbutton::before {
     content: '◀ ';
     transition: transform 0.3s ease;
 }
 
-/* Reveal Logic */
-.node + .children {
+/* Folder Expansion Animation */
+.folder + .subfolder {
     display: none;
-    list-style-type: none;
-    padding-inline-start: 1.25rem;
+    padding-left: 20px;
+    list-style: none;
     opacity: 0;
     max-height: 0;
-    transition: max-height 0.5s ease, opacity 0.3s ease;
+    transition: opacity 0.3s ease, max-height 0.5s ease;
 }
 
-.node.expanded + .children {
+.folder.expanded + .subfolder {
     display: block;
     opacity: 1;
     max-height: 500px;
 }
 
-/* Spinner Loader */
-.loader {
+/* Loading Spinner */
+.spinner {
     display: block;
-    margin-inline: auto;
+    margin: 0 auto;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
     width: 50px;
     height: 50px;
-    border: 4px solid #f3f3f3;
-    border-block-start-color: #3498db;
-    border-radius: 50%;
+    bottom: 50%;
     animation: spin 1s linear infinite;
 }
 
 @keyframes spin {
-    to {
-        transform: rotate(360deg);
-    }
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
 
-/* Attribution */
-.credits {
+.Credits{
     text-align: center;
 }
 
-/* File Links */
-.file-name {
-    display: block;
+.filename{
     text-decoration: none;
     color: #333;
+    display: block;
 }
 
-/* External Links */
-.nav-link {
-    text-decoration: none;
+.Link{
     color: #7E017A;
+    text-decoration: none;
 }
 
-.nav-link:hover {
+.Link:hover{
     color: #BC03B5;
 }
 
-/* Discord Section */
-.community {
+.DiscordServer{
     text-align: center;
 }
 
-.community img {
+.DiscordServer img {
     height: 1em;
     margin-right: 0.5em;
 }
 
-/* Search Section */
-.search-container {
+.SearchBox{
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 1%;
 }
 
-/* Footer Styling */
-.footer-text {
+.Footer{
+    color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0.5);
     text-align: center;
     padding-top: 5%;
-    color: rgba(0, 0, 0, 0.5);
 }
 
-/* Subtext under filenames */
-.meta {
-    color: rgba(0, 0, 0, 0.5);
-    font-size: 0.8em;
-    padding-left: 5px;
-}
