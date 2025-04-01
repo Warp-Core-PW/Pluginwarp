@@ -1,148 +1,164 @@
-/* Basic Reset */
-* {
+/* Universal Setup */
+:where(*) {
+    box-sizing: inherit;
     margin: 0;
     padding: 0;
+}
+
+html {
     box-sizing: border-box;
 }
-body {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    padding: 20px;
 
-    /* Variables */
-    --main-color: #e93a3a;
-    --hover-scale: 1.005
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 1.25rem;
+
+    --accent: #e93a3a;
+    --scale-hover: 1.005;
 }
-h2.ImpactHeader {
-    text-align: center;
-}
+
+/* Headings */
 h1 {
     text-align: center;
     color: #444;
-    margin-bottom: 20px;
+    margin-block-end: 1.25rem;
 }
 
-/* File Tree Styles */
-.file-tree {
-    list-style: none;
-    padding-left: 20px;
+h2.primary-title {
+    text-align: center;
 }
 
-.folder, .file, .backbutton {
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-    margin: 5px 0;
-    cursor: pointer;
+/* List Display */
+.tree-view {
+    list-style-type: none;
+    padding-inline-start: 1.25rem;
+}
+
+/* Node Items */
+.node,
+.return-btn,
+.entry {
+    border-radius: 5px;
     padding: 5px;
-    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-block: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
 
-.folder:hover, .file:hover, .backbutton:hover{
-    background-color: var(--main-color); /* #4CAF50;*/
-    color: white;
-    transform: scale(var(--hover-scale));
+.node:hover,
+.entry:hover,
+.return-btn:hover {
+    background-color: var(--accent);
+    color: #fff;
+    transform: scale(var(--scale-hover));
 }
 
-.file:hover .ExtCredits {
-    color: white;
-    transform: scale(var(--hover-scale));
+.entry:hover .meta {
+    color: #fff;
+    transform: scale(var(--scale-hover));
 }
 
-.folder::before {
+/* Icons for Entries */
+.node::before {
     content: '📁 ';
     transition: transform 0.3s ease;
 }
 
-.file::before {
+.entry::before {
     content: '📄 ';
     transition: transform 0.3s ease;
 }
 
-.backbutton::before {
+.return-btn::before {
     content: '◀ ';
     transition: transform 0.3s ease;
 }
 
-/* Folder Expansion Animation */
-.folder + .subfolder {
+/* Reveal Logic */
+.node + .children {
     display: none;
-    padding-left: 20px;
-    list-style: none;
+    list-style-type: none;
+    padding-inline-start: 1.25rem;
     opacity: 0;
     max-height: 0;
-    transition: opacity 0.3s ease, max-height 0.5s ease;
+    transition: max-height 0.5s ease, opacity 0.3s ease;
 }
 
-.folder.expanded + .subfolder {
+.node.expanded + .children {
     display: block;
     opacity: 1;
     max-height: 500px;
 }
 
-/* Loading Spinner */
-.spinner {
+/* Spinner Loader */
+.loader {
     display: block;
-    margin: 0 auto;
-    border: 4px solid #f3f3f3;
-    border-top: 4px solid #3498db;
-    border-radius: 50%;
+    margin-inline: auto;
     width: 50px;
     height: 50px;
-    bottom: 50%;
+    border: 4px solid #f3f3f3;
+    border-block-start-color: #3498db;
+    border-radius: 50%;
     animation: spin 1s linear infinite;
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    to {
+        transform: rotate(360deg);
+    }
 }
 
-.Credits{
+/* Attribution */
+.credits {
     text-align: center;
 }
 
-.filename{
+/* File Links */
+.file-name {
+    display: block;
     text-decoration: none;
     color: #333;
-    display: block;
 }
 
-.Link{
-    color: #7E017A;
+/* External Links */
+.nav-link {
     text-decoration: none;
+    color: #7E017A;
 }
 
-.Link:hover{
+.nav-link:hover {
     color: #BC03B5;
 }
 
-.DiscordServer{
+/* Discord Section */
+.community {
     text-align: center;
 }
 
-.DiscordServer img {
+.community img {
     height: 1em;
     margin-right: 0.5em;
 }
 
-.SearchBox{
+/* Search Section */
+.search-container {
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 1%;
 }
 
-.Footer{
-    color: #000; /* Fallback for older browsers */
-    color: rgba(0, 0, 0, 0.5);
+/* Footer Styling */
+.footer-text {
     text-align: center;
     padding-top: 5%;
+    color: rgba(0, 0, 0, 0.5);
 }
 
-.ExtCredits{
+/* Subtext under filenames */
+.meta {
     color: rgba(0, 0, 0, 0.5);
-    font-size: 80%;
+    font-size: 0.8em;
     padding-left: 5px;
 }
