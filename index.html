@@ -39,5 +39,43 @@
     <!--Script Loading-->
     <script src="ExtensionLoader.js"></script>
     <script src="ExtensionDownloader.js"></script>
+    <script>
+	    // Create the popup container
+const popup = document.createElement('div');
+popup.style.position = 'fixed';
+popup.style.top = '30%';
+popup.style.left = '40%';
+popup.style.background = 'white';
+popup.style.border = '1px solid #ccc';
+popup.style.padding = '20px';
+popup.style.zIndex = '1000';
+popup.style.boxShadow = '0 4px 10px rgba(0,0,0,0.2)';
+popup.innerHTML = `
+  <p>Pluginwarp has been discontunued</p>
+  <button id="closePopup">Close</button>
+`;
+
+// Create the "Show Popup" button
+const showBtn = document.createElement('button');
+showBtn.textContent = 'Show Popup';
+showBtn.style.position = 'fixed';
+showBtn.style.top = '10px';
+showBtn.style.left = '10px';
+
+// Append button to body
+document.body.appendChild(showBtn);
+
+// Show the popup when button is clicked
+showBtn.addEventListener('click', () => {
+  document.body.appendChild(popup);
+});
+
+// Close the popup when close button is clicked
+popup.addEventListener('click', (e) => {
+  if (e.target.id === 'closePopup') {
+    popup.remove();
+  }
+});
+    </script>
 </body>
 </html>
