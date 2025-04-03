@@ -55,20 +55,7 @@ popup.innerHTML = `
   <button id="closePopup">Close</button>
 `;
 
-// Create the "Show Popup" button
-const showBtn = document.createElement('button');
-showBtn.textContent = 'Show Popup';
-showBtn.style.position = 'fixed';
-showBtn.style.top = '10px';
-showBtn.style.left = '10px';
-
-// Append button to body
-document.body.appendChild(showBtn);
-
-// Show the popup when button is clicked
-showBtn.addEventListener('click', () => {
-  document.body.appendChild(popup);
-});
+document.body.appendChild(popup);
 
 // Close the popup when close button is clicked
 popup.addEventListener('click', (e) => {
