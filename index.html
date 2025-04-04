@@ -36,9 +36,9 @@
     	<br>Hampter Son - That Pi Guy<br>
     </footer>
 
-    <!--Script Loading-->
+    <!--
     <script src="ExtensionLoader.js"></script>
-    <script src="ExtensionDownloader.js"></script>
+    <script src="ExtensionDownloader.js"></script> -->
     <script>
 	    // Create the popup container
 const popup = document.createElement('div');
@@ -52,7 +52,7 @@ popup.style.zIndex = '1000';
 popup.style.boxShadow = '0 4px 10px rgba(0,0,0,0.2)';
 popup.innerHTML = `
   <p>Pluginwarp has been discontunued</p>
-  <button id="closePopup">Close</button>
+  <button id="closePopup">Click Here for alterinitive</button>
 `;
 
 document.body.appendChild(popup);
@@ -60,7 +60,8 @@ document.body.appendChild(popup);
 // Close the popup when close button is clicked
 popup.addEventListener('click', (e) => {
   if (e.target.id === 'closePopup') {
-    popup.remove();
+        window.location.href = "https://ZincCore.github.io/ZincShelf";
+        
   }
 });
     </script>
