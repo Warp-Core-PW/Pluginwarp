@@ -42,6 +42,7 @@
     <script>
 	    // Create the popup container
 const popup = document.createElement('div');
+zinccore = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 popup.style.position = 'fixed';
 popup.style.top = '30%';
 popup.style.left = '40%';
@@ -52,7 +53,7 @@ popup.style.zIndex = '1000';
 popup.style.boxShadow = '0 4px 10px rgba(0,0,0,0.2)';
 popup.innerHTML = `
   <p>Pluginwarp has been discontunued</p>
-  <button id="closePopup">Click Here for alterinitive</button>
+  <button id="closePopup">Click Here for Alternative</button>
 `;
 
 document.body.appendChild(popup);
@@ -60,7 +61,7 @@ document.body.appendChild(popup);
 // Close the popup when close button is clicked
 popup.addEventListener('click', (e) => {
   if (e.target.id === 'closePopup') {
-        window.location.href = "https://ZincCore.github.io/ZincShelf";
+        window.location.href = zinccore;
         
   }
 });
